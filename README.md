@@ -41,5 +41,4 @@ Antes de ejecutar el proyecto, asegúrate de tener instalado lo siguiente:
 ### 1. Clonar el repositorio
 
 ```bash
-git clone https://github.com/tu-usuario/tu-repositorio.git
-cd tu-repositorio
+git clone https://github.com/Heberjfet/Contapi.git
